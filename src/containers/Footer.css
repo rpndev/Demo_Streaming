@@ -1,0 +1,32 @@
+.Footer-Style {
+  margin-top: 100px;
+}
+.copyright {
+  margin: 30px 60px 30px 60px;
+  display: inline-block;
+}
+label {
+  color: white;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.Footer-Style p {
+  color: white;
+  text-align: left;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+.social {
+  margin-top: 35px;
+  display: flex;
+}
+.social img {
+  height: 30px;
+  margin-left: 20px;
+}
+.social img:nth-child(4) {
+  margin-left: 500px;
+}
